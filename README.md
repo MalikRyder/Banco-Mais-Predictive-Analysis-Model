@@ -81,7 +81,7 @@ Which customer segments should Banco Mais target in future marketing campaigns t
 ### 2. Higher Education Levels Had Higher Subscription Rates 
 - Customers in the high education group had the highest subscription rate at around 43%.
 - Customers with higher education levels were slightly more likely to subscribe compared to the other education groups.
-
+![Education Subscription Rate](education-subscription-Rate.png)
 
 ### 3. Retired & Student Customers Had the Highest Subscription Rate
 - Retired and Student customers had a subscription rate of around 51%, compared to the overall average of about 40%.
