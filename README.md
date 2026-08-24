@@ -75,6 +75,7 @@ Which customer segments should Banco Mais target in future marketing campaigns t
 ### 1. Higher Balance Customers Had Higher Subscription Rates
 - Customers with high account balances had higher subscription rates than customers with medium and low balances.
 - Higher-balance customers may provide a stronger opportunity for future term deposit marketing campaigns.
+  ![Balance Subscription Rate](balance-subscription-rate.png)
 
 
 ### 2. Higher Education Levels Had Higher Subscription Rates 
