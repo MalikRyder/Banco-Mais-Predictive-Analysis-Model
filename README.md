@@ -92,5 +92,5 @@ Which customer segments should Banco Mais target in future marketing campaigns t
 - Retired and Student customers had a subscription rate of around 51%, compared to the overall average of about 40%.
 - This group showed the strongest subscription rate among the job categories analyzed.
 <p align="center">
-<img src="education-subscription-rate.png" width="650"
+<img src="job-subscription-rate.png" width="650"
  </p>
